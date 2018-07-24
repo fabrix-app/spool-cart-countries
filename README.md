@@ -1,16 +1,18 @@
 # spool-cart-countries
 
+[![Gitter][gitter-image]][gitter-url]
 [![NPM version][npm-image]][npm-url]
-[![Build status][ci-image]][ci-url]
+[![Build Status][ci-image]][ci-url]
+[![Test Coverage][coverage-image]][coverage-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
-[![Code Climate][codeclimate-image]][codeclimate-url]
+[![Follow @FabrixApp on Twitter][twitter-image]][twitter-url]
 
-[Proxy Cart](https://github.com/fabrix-app/spool-cart) Countries (Shipping Zone and Taxes) has the default supported countries with relatively updated state/province taxes.
+[Cart](https://github.com/fabrix-app/spool-cart) Countries (Shipping Zone and Taxes) has the default supported countries with relatively updated state/province taxes.
 
 ## Install
 
 ```sh
-$ npm install --save spool-proxy-cart-countries
+$ npm install --save @fabrix/spool-cart-countries
 ```
 
 ## Configure
@@ -25,12 +27,15 @@ export const main = {
 }
 ```
 
-[npm-image]: https://img.shields.io/npm/v/spool-proxy-cart-countries.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/spool-proxy-cart-countries
-[ci-image]: https://img.shields.io/travis/CaliStyle/spool-proxy-cart-countries/master.svg?style=flat-square
-[ci-url]: https://travis-ci.org/CaliStyle/spool-proxy-cart-countries
-[daviddm-image]: http://img.shields.io/david/CaliStyle/spool-proxy-cart-countries.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/CaliStyle/spool-proxy-cart-countries
-[codeclimate-image]: https://img.shields.io/codeclimate/github/CaliStyle/spool-proxy-cart-countries.svg?style=flat-square
-[codeclimate-url]: https://codeclimate.com/github/CaliStyle/spool-proxy-cart-countries
-
+[npm-image]: https://img.shields.io/npm/v/@fabrix/spool-cart-countries.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@fabrix/spool-cart-countries
+[ci-image]: https://img.shields.io/circleci/project/github/fabrix-app/spool-cart-countries/master.svg
+[ci-url]: https://circleci.com/gh/fabrix-app/spool-cart-countries/tree/master
+[daviddm-image]: http://img.shields.io/david/fabrix-app/spool-cart-countries.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/fabrix-app/spool-cart-countries
+[gitter-image]: http://img.shields.io/badge/+%20GITTER-JOIN%20CHAT%20%E2%86%92-1DCE73.svg?style=flat-square
+[gitter-url]: https://gitter.im/fabrix-app/Lobby
+[twitter-image]: https://img.shields.io/twitter/follow/FabrixApp.svg?style=social
+[twitter-url]: https://twitter.com/FabrixApp
+[coverage-image]: https://img.shields.io/codeclimate/coverage/github/fabrix-app/spool-cart-countries.svg?style=flat-square
+[coverage-url]: https://codeclimate.com/github/fabrix-app/spool-cart-countries/coverage
