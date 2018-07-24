@@ -1,0 +1,244 @@
+{
+  "name": "Spain",
+  "altSpellings": [
+    "ES",
+    "España"
+  ],
+  "ISO": {
+    "alpha2": "ES",
+    "alpha3": "ESP"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "name": "La Coruña",
+      "code": "C",
+      "country": "ES"
+    },
+    {
+      "name": "Lugo",
+      "code": "LU",
+      "country": "ES"
+    },
+    {
+      "name": "Vizcaya",
+      "code": "BI",
+      "country": "ES"
+    },
+    {
+      "name": "Guipúzcoa",
+      "code": "SS",
+      "country": "ES"
+    },
+    {
+      "name": "Huesca",
+      "code": "HU",
+      "country": "ES"
+    },
+    {
+      "name": "Lérida",
+      "code": "L",
+      "country": "ES"
+    },
+    {
+      "name": "Gerona",
+      "code": "GI",
+      "country": "ES"
+    },
+    {
+      "name": "Barcelona",
+      "code": "B",
+      "country": "ES"
+    },
+    {
+      "name": "Tarragona",
+      "code": "T",
+      "country": "ES"
+    },
+    {
+      "name": "Castellón",
+      "code": "CS",
+      "country": "ES"
+    },
+    {
+      "name": "Valencia",
+      "code": "V",
+      "country": "ES"
+    },
+    {
+      "name": "Alicante",
+      "code": "A",
+      "country": "ES"
+    },
+    {
+      "name": "Murcia",
+      "code": "MU",
+      "country": "ES"
+    },
+    {
+      "name": "Zaragoza",
+      "code": "Z",
+      "country": "ES"
+    },
+    {
+      "name": "Teruel",
+      "code": "TE",
+      "country": "ES"
+    },
+    {
+      "name": "Cuenca",
+      "code": "CU",
+      "country": "ES"
+    },
+    {
+      "name": "Albacete",
+      "code": "AB",
+      "country": "ES"
+    },
+    {
+      "name": "Almeria",
+      "code": "AL",
+      "country": "ES"
+    },
+    {
+      "name": "Granada",
+      "code": "GR",
+      "country": "ES"
+    },
+    {
+      "name": "Málaga",
+      "code": "MA",
+      "country": "ES"
+    },
+    {
+      "name": "Tenerife",
+      "code": "TF",
+      "country": "ES"
+    },
+    {
+      "name": "Cádiz",
+      "code": "CA",
+      "country": "ES"
+    },
+    {
+      "name": "Sevilla",
+      "code": "SE",
+      "country": "ES"
+    },
+    {
+      "name": "Huelva",
+      "code": "H",
+      "country": "ES"
+    },
+    {
+      "name": "Las Palmas",
+      "code": "GC",
+      "country": "ES"
+    },
+    {
+      "name": "Madrid",
+      "code": "M",
+      "country": "ES"
+    },
+    {
+      "name": "Badajoz",
+      "code": "BA",
+      "country": "ES"
+    },
+    {
+      "name": "Cáceres",
+      "code": "CC",
+      "country": "ES"
+    },
+    {
+      "name": "Toledo",
+      "code": "TO",
+      "country": "ES"
+    },
+    {
+      "name": "Ciudad Real",
+      "code": "CR",
+      "country": "ES"
+    },
+    {
+      "name": "Salamanca",
+      "code": "SA",
+      "country": "ES"
+    },
+    {
+      "name": "Córdoba",
+      "code": "CO",
+      "country": "ES"
+    },
+    {
+      "name": "Jaén",
+      "code": "J",
+      "country": "ES"
+    },
+    {
+      "name": "Ávila",
+      "code": "AV",
+      "country": "ES"
+    },
+    {
+      "name": "Valladolid",
+      "code": "VA",
+      "country": "ES"
+    },
+    {
+      "name": "Zamora",
+      "code": "ZA",
+      "country": "ES"
+    },
+    {
+      "name": "Álava",
+      "code": "VI",
+      "country": "ES"
+    },
+    {
+      "name": "Segovia",
+      "code": "SG",
+      "country": "ES"
+    },
+    {
+      "name": "Burgos",
+      "code": "BU",
+      "country": "ES"
+    },
+    {
+      "name": "Pontevedra",
+      "code": "PO",
+      "country": "ES"
+    },
+    {
+      "name": "León",
+      "code": "LE",
+      "country": "ES"
+    },
+    {
+      "name": "Orense",
+      "code": "OU",
+      "country": "ES"
+    },
+    {
+      "name": "Palencia",
+      "code": "P",
+      "country": "ES"
+    },
+    {
+      "name": "La Rioja",
+      "code": "LO",
+      "country": "ES"
+    },
+    {
+      "name": "Soria",
+      "code": "SO",
+      "country": "ES"
+    },
+    {
+      "name": "Guadalajara",
+      "code": "GU",
+      "country": "ES"
+    }
+  ]
+}

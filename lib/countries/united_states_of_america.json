@@ -1,0 +1,472 @@
+{
+  "name": "United States",
+  "altSpellings": [
+    "US",
+    "USA",
+    "United States of America"
+  ],
+  "ISO": {
+    "alpha2": "US",
+    "alpha3": "USA"
+  },
+  "tax": 0.00,
+  "tax_name": "Federal Sales Tax",
+  "states": [
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "country": "US",
+      "tax": 0.04,
+      "tax_name": "Alabama Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Alaska Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "country": "US",
+      "tax": 0.056,
+      "tax_name": "Arizona Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "country": "US",
+      "tax": 0.065,
+      "tax_name": "Arkansas Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "country": "US",
+      "tax": 0.0775,
+      "tax_name": "California Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "country": "US",
+      "tax": 0.029,
+      "tax_name": "Colorado Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "country": "US",
+      "tax": 0.0635,
+      "tax_name": "Connecticut Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "DC",
+      "name": "District of Columbia",
+      "country": "US",
+      "tax": 0.0575,
+      "tax_name": "D.C. Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Delware Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Florida Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "country": "US",
+      "tax": 0.04,
+      "tax_name": "Gerogia Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "country": "US",
+      "tax": 0.04,
+      "tax_name": "Hawaii Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Idaho Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "country": "US",
+      "tax": 0.0625,
+      "tax_name": "Illinois Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "country": "US",
+      "tax": 0.07,
+      "tax_name": "Indiana Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Iowa Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "country": "US",
+      "tax": 0.065,
+      "tax_name": "Kansas Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Kentucky Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "country": "US",
+      "tax": 0.05,
+      "tax_name": "Louisiana Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "country": "US",
+      "tax": 0.055,
+      "tax_name": "Maine Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "country": "US",
+      "tax": 0.60,
+      "tax_name": "Maryland Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "country": "US",
+      "tax": 0.0625,
+      "tax_name": "Massachusetts Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Michigan Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "country": "US",
+      "tax": 0.06875,
+      "tax_name": "Minnesota Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "country": "US",
+      "tax": 0.07,
+      "tax_name": "Mississippi Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "country": "US",
+      "tax": 0.04225,
+      "tax_name": "Missouri Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Montana Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "country": "US",
+      "tax": 0.055,
+      "tax_name": "Nebraska Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "country": "US",
+      "tax": 0.0685,
+      "tax_name": "Nevada Minimum Statewide Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "New Hampshire Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "country": "US",
+      "tax": 0.06875,
+      "tax_name": "New Jersey Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "country": "US",
+      "tax": 0.05125,
+      "tax_name": "New Mexico Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "country": "US",
+      "tax": 0.04,
+      "tax_name": "New York Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "country": "US",
+      "tax": 0.0475,
+      "tax_name": "North Carolina Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "country": "US",
+      "tax": 0.05,
+      "tax_name": "North Dakota Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "country": "US",
+      "tax": 0.0575,
+      "tax_name": "Ohio Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "country": "US",
+      "tax": 0.045,
+      "tax_name": "Oklahoma Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Oregon Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Pennsylvania Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "country": "US",
+      "tax": 0.07,
+      "tax_name": "Rhode Island Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "South Carolina Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "country": "US",
+      "tax": 0.045,
+      "tax_name": "South Dakota Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "country": "US",
+      "tax": 0.07,
+      "tax_name": "Tennessee Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "country": "US",
+      "tax": 0.0625,
+      "tax_name": "Texas Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "country": "US",
+      "tax": 0.047,
+      "tax_name": "Utah Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "Vermont Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "country": "US",
+      "tax": 0.043,
+      "tax_name": "Virginia Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "country": "US",
+      "tax": 0.065,
+      "tax_name": "Washington Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "country": "US",
+      "tax": 0.06,
+      "tax_name": "West Virginia Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "country": "US",
+      "tax": 0.05,
+      "tax_name": "Wisconsin Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "country": "US",
+      "tax": 0.04,
+      "tax_name": "Wyoming Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "America Samoa Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Guam Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Northern Mariana Islands Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Puerto Rico Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "UM",
+      "name": "United States Minor Outlying Islands",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "U.S.M.O.I Sales Tax",
+      "tax_type": "percentage"
+    },
+    {
+      "code": "VI",
+      "name": "Virgin Islands",
+      "country": "US",
+      "tax": 0.00,
+      "tax_name": "Virgin Islands Sales Tax",
+      "tax_type": "percentage"
+    }
+  ]
+}

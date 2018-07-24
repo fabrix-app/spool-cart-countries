@@ -1,0 +1,189 @@
+{
+  "name": "China",
+  "altSpellings": [
+    "CN",
+    "Zhōngguó",
+    "Zhongguo",
+    "Zhonghua",
+    "People's Republic of China",
+    "中华人民共和国",
+    "Zhōnghuá Rénmín Gònghéguó"
+  ],
+  "ISO": {
+    "alpha2": "CN",
+    "alpha3": "CHN"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "name": "重庆",
+      "code": "渝",
+      "country": "CN"
+    },
+    {
+      "name": "黑龙江",
+      "code": "黑",
+      "country": "CN"
+    },
+    {
+      "name": "吉林",
+      "code": "吉",
+      "country": "CN"
+    },
+    {
+      "name": "海南",
+      "code": "琼",
+      "country": "CN"
+    },
+    {
+      "name": "北京",
+      "code": "京",
+      "country": "CN"
+    },
+    {
+      "name": "辽宁",
+      "code": "辽",
+      "country": "CN"
+    },
+    {
+      "name": "内蒙古",
+      "code": "蒙",
+      "country": "CN"
+    },
+    {
+      "name": "西藏",
+      "code": "藏",
+      "country": "CN"
+    },
+    {
+      "name": "青海",
+      "code": "青",
+      "country": "CN"
+    },
+    {
+      "name": "宁夏",
+      "code": "宁",
+      "country": "CN"
+    },
+    {
+      "name": "新疆",
+      "code": "新",
+      "country": "CN"
+    },
+    {
+      "name": "甘肃",
+      "code": "甘",
+      "country": "CN"
+    },
+    {
+      "name": "河北",
+      "code": "冀",
+      "country": "CN"
+    },
+    {
+      "name": "河南",
+      "code": "豫",
+      "country": "CN"
+    },
+    {
+      "name": "湖北",
+      "code": "鄂",
+      "country": "CN"
+    },
+    {
+      "name": "湖南",
+      "code": "湘",
+      "country": "CN"
+    },
+    {
+      "name": "山东",
+      "code": "鲁",
+      "country": "CN"
+    },
+    {
+      "name": "江苏",
+      "code": "苏",
+      "country": "CN"
+    },
+    {
+      "name": "安徽",
+      "code": "皖",
+      "country": "CN"
+    },
+    {
+      "name": "山西",
+      "code": "晋",
+      "country": "CN"
+    },
+    {
+      "name": "陕西",
+      "code": "陕",
+      "country": "CN"
+    },
+    {
+      "name": "四川",
+      "code": "川",
+      "country": "CN"
+    },
+    {
+      "name": "云南",
+      "code": "滇",
+      "country": "CN"
+    },
+    {
+      "name": "贵州",
+      "code": "黔",
+      "country": "CN"
+    },
+    {
+      "name": "浙江",
+      "code": "浙",
+      "country": "CN"
+    },
+    {
+      "name": "福建",
+      "code": "闽",
+      "country": "CN"
+    },
+    {
+      "name": "广西",
+      "code": "桂",
+      "country": "CN"
+    },
+    {
+      "name": "上海",
+      "code": "沪",
+      "country": "CN"
+    },
+    {
+      "name": "天津",
+      "code": "津",
+      "country": "CN"
+    },
+    {
+      "name": "香港",
+      "code": "港",
+      "country": "CN"
+    },
+    {
+      "name": "澳门",
+      "code": "澳",
+      "country": "CN"
+    },
+    {
+      "name": "台湾",
+      "code": "台",
+      "country": "CN"
+    },
+    {
+      "name": "江西",
+      "code": "赣",
+      "country": "CN"
+    },
+    {
+      "name": "广东",
+      "code": "粤",
+      "country": "CN"
+    }
+  ]
+}

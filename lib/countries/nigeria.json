@@ -1,0 +1,201 @@
+{
+  "name": "Nigeria",
+  "altSpellings": [
+    "NG",
+    "Nijeriya",
+    "Naíjíríà",
+    "Federal Republic of Nigeria"
+  ],
+  "ISO": {
+    "alpha2": "NG",
+    "alpha3": "NGA"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "AB",
+      "name": "Abia",
+      "country": "NG"
+    },
+    {
+      "code": "FC",
+      "name": "Abuja",
+      "country": "NG"
+    },
+    {
+      "code": "AD",
+      "name": "Adamawa",
+      "country": "NG"
+    },
+    {
+      "code": "AK",
+      "name": "AkwaIbom",
+      "country": "NG"
+    },
+    {
+      "code": "AN",
+      "name": "Anambra",
+      "country": "NG"
+    },
+    {
+      "code": "BA",
+      "name": "Bauchi",
+      "country": "NG"
+    },
+    {
+      "code": "BY",
+      "name": "Bayelsa",
+      "country": "NG"
+    },
+    {
+      "code": "BE",
+      "name": "Benue",
+      "country": "NG"
+    },
+    {
+      "code": "BO",
+      "name": "Borno",
+      "country": "NG"
+    },
+    {
+      "code": "CR",
+      "name": "CrossRiver",
+      "country": "NG"
+    },
+    {
+      "code": "DE",
+      "name": "Delta",
+      "country": "NG"
+    },
+    {
+      "code": "EB",
+      "name": "Ebonyi",
+      "country": "NG"
+    },
+    {
+      "code": "ED",
+      "name": "Edo",
+      "country": "NG"
+    },
+    {
+      "code": "EK",
+      "name": "Ekiti",
+      "country": "NG"
+    },
+    {
+      "code": "EN",
+      "name": "Enugu",
+      "country": "NG"
+    },
+    {
+      "code": "GO",
+      "name": "Gombe",
+      "country": "NG"
+    },
+    {
+      "code": "IM",
+      "name": "Imo",
+      "country": "NG"
+    },
+    {
+      "code": "JI",
+      "name": "Jigawa",
+      "country": "NG"
+    },
+    {
+      "code": "KD",
+      "name": "Kaduna",
+      "country": "NG"
+    },
+    {
+      "code": "KN",
+      "name": "Kano",
+      "country": "NG"
+    },
+    {
+      "code": "KT",
+      "name": "Katsina",
+      "country": "NG"
+    },
+    {
+      "code": "KE",
+      "name": "Kebbi",
+      "country": "NG"
+    },
+    {
+      "code": "KO",
+      "name": "Kogi",
+      "country": "NG"
+    },
+    {
+      "code": "KW",
+      "name": "Kwara",
+      "country": "NG"
+    },
+    {
+      "code": "LA",
+      "name": "Lagos",
+      "country": "NG"
+    },
+    {
+      "code": "NA",
+      "name": "Nasarawa",
+      "country": "NG"
+    },
+    {
+      "code": "NI",
+      "name": "Niger",
+      "country": "NG"
+    },
+    {
+      "code": "OG",
+      "name": "Ogun",
+      "country": "NG"
+    },
+    {
+      "code": "ON",
+      "name": "Ondo",
+      "country": "NG"
+    },
+    {
+      "code": "OS",
+      "name": "Osun",
+      "country": "NG"
+    },
+    {
+      "code": "OY",
+      "name": "Oyo",
+      "country": "NG"
+    },
+    {
+      "code": "PL",
+      "name": "Plateau",
+      "country": "NG"
+    },
+    {
+      "code": "RI",
+      "name": "Rivers",
+      "country": "NG"
+    },
+    {
+      "code": "SO",
+      "name": "Sokoto",
+      "country": "NG"
+    },
+    {
+      "code": "TA",
+      "name": "Taraba",
+      "country": "NG"
+    },
+    {
+      "code": "YO",
+      "name": "Yobe",
+      "country": "NG"
+    },
+    {
+      "code": "ZA",
+      "name": "Zamfara",
+      "country": "NG"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Germany",
+  "altSpellings": [
+    "DE",
+    "Federal Republic of Germany",
+    "Bundesrepublik Deutschland"
+  ],
+  "ISO": {
+    "alpha2": "DE",
+    "alpha3": "DEU"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "BW",
+      "name": "Baden-Württemberg",
+      "country": "DE"
+    },
+    {
+      "code": "BY",
+      "name": "Bayern",
+      "country": "DE"
+    },
+    {
+      "code": "BE",
+      "name": "Berlin",
+      "country": "DE"
+    },
+    {
+      "code": "BB",
+      "name": "Brandenburg",
+      "country": "DE"
+    },
+    {
+      "code": "HB",
+      "name": "Bremen",
+      "country": "DE"
+    },
+    {
+      "code": "HH",
+      "name": "Hamburg",
+      "country": "DE"
+    },
+    {
+      "code": "HE",
+      "name": "Hessen",
+      "country": "DE"
+    },
+    {
+      "code": "MV",
+      "name": "Mecklenburg-Vorpommern",
+      "country": "DE"
+    },
+    {
+      "code": "NI",
+      "name": "Niedersachsen",
+      "country": "DE"
+    },
+    {
+      "code": "NW",
+      "name": "Nordrhein-Westfalen",
+      "country": "DE"
+    },
+    {
+      "code": "RP",
+      "name": "Rheinland-Pfalz",
+      "country": "DE"
+    },
+    {
+      "code": "SL",
+      "name": "Saarland",
+      "country": "DE"
+    },
+    {
+      "code": "SN",
+      "name": "Sachsen",
+      "country": "DE"
+    },
+    {
+      "code": "ST",
+      "name": "Sachsen-Anhalt",
+      "country": "DE"
+    },
+    {
+      "code": "SH",
+      "name": "Schleswig-Holstein",
+      "country": "DE"
+    },
+    {
+      "code": "TH",
+      "name": "Thüringen",
+      "country": "DE"
+    }
+  ]
+}

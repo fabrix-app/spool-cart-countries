@@ -1,0 +1,93 @@
+{
+  "name": "Australia",
+  "altSpellings": [
+    "AU"
+  ],
+  "ISO": {
+    "alpha2": "AU",
+    "alpha3": "AUS"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "name": "Ashmore and Cartier Islands",
+      "country": "AU"
+    },
+    {
+      "name": "Australian Antarctic Territory",
+      "country": "AU"
+    },
+    {
+      "code": "ACT",
+      "name": "Australian Capital Territory",
+      "country": "AU"
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "country": "AU"
+    },
+    {
+      "code": "CC",
+      "name": "Cocos Islands",
+      "altSpellings": [
+        "Keeling Islands"
+      ],
+      "country": "AU"
+    },
+    {
+      "name": "Coral Sea Islands",
+      "country": "AU"
+    },
+    {
+      "code": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "country": "AU"
+    },
+    {
+      "code": "JBT",
+      "name": "Jervis Bay Territory",
+      "country": "AU"
+    },
+    {
+      "code": "NSW",
+      "name": "New South Wales",
+      "country": "AU"
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "country": "AU"
+    },
+    {
+      "code": "NT",
+      "name": "Northern Territory",
+      "country": "AU"
+    },
+    {
+      "code": "QLD",
+      "name": "Queensland",
+      "country": "AU"
+    },
+    {
+      "code": "SA",
+      "name": "South Australia",
+      "country": "AU"
+    },
+    {
+      "code": "TAS",
+      "name": "Tasmania",
+      "country": "AU"
+    },
+    {
+      "code": "VIC",
+      "name": "Victoria",
+      "country": "AU"
+    },
+    {
+      "code": "WA",
+      "name": "Western Australia",
+      "country": "AU"
+    }
+  ]
+}

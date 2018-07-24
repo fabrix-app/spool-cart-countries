@@ -1,0 +1,61 @@
+{
+  "name": "Austria",
+  "altSpellings": [
+    "AT",
+    "Österreich",
+    "Osterreich",
+    "Oesterreich"
+  ],
+  "ISO": {
+    "alpha2": "AT",
+    "alpha3": "AUT"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "B",
+      "name": "Burgenland",
+      "country": "AT"
+    },
+    {
+      "code": "K",
+      "name": "Kärnten",
+      "country": "AT"
+    },
+    {
+      "code": "NÖ",
+      "name": "Niederösterreich",
+      "country": "AT"
+    },
+    {
+      "code": "OÖ",
+      "name": "Oberösterreich",
+      "country": "AT"
+    },
+    {
+      "code": "S",
+      "name": "Salzburg",
+      "country": "AT"
+    },
+    {
+      "code": "ST",
+      "name": "Steiermark",
+      "country": "AT"
+    },
+    {
+      "code": "T",
+      "name": "Tirol",
+      "country": "AT"
+    },
+    {
+      "code": "V",
+      "name": "Vorarlberg",
+      "country": "AT"
+    },
+    {
+      "code": "W",
+      "name": "Wien",
+      "country": "AT"
+    }
+  ]
+}

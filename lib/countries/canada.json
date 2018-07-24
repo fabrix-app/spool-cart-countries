@@ -1,0 +1,122 @@
+{
+  "name": "Canada",
+  "altSpellings": [
+    "CA"
+  ],
+  "ISO": {
+    "alpha2": "CA",
+    "alpha3": "CAN"
+  },
+  "tax": 0.05,
+  "tax_name": "GST",
+  "states": [
+    {
+      "code": "AB",
+      "name": "Alberta",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "BC",
+      "name": "British Columbia",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "MB",
+      "name": "Manitoba",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "NB",
+      "name": "New Brunswick",
+      "country": "CA",
+      "tax": 0.10,
+      "tax_name": "HST",
+      "tax_type": "HST"
+    },
+    {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "country": "CA",
+      "alt": [
+        "Newfoundland",
+        "Labrador"
+      ],
+      "tax": 0.10,
+      "tax_name": "HST",
+      "tax_type": "HST"
+    },
+    {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "country": "CA",
+      "tax": 0.10,
+      "tax_name": "HST",
+      "tax_type": "HST"
+    },
+    {
+      "code": "NU",
+      "name": "Nunavut",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "NW",
+      "name": "Northwest Territories",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "ON",
+      "name": "Ontario",
+      "country": "CA",
+      "tax": 0.08,
+      "tax_name": "HST",
+      "tax_type": "HST"
+    },
+    {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "country": "CA",
+      "tax": 0.10,
+      "tax_name": "HST",
+      "tax_type": "HST"
+    },
+    {
+      "code": "QC",
+      "name": "Quebec",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    },
+    {
+      "code": "YU",
+      "name": "Yukon",
+      "country": "CA",
+      "tax": 0.00,
+      "tax_name": "PST",
+      "tax_type": ""
+    }
+  ]
+}

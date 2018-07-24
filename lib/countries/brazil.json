@@ -1,0 +1,151 @@
+{
+  "name": "Brazil",
+  "altSpellings": [
+    "BR",
+    "Brasil",
+    "Federative Republic of Brazil",
+    "República Federativa do Brasil"
+  ],
+  "ISO": {
+    "alpha2": "BR",
+    "alpha3": "BRA"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "AC",
+      "name": "Acre",
+      "country": "BR"
+    },
+    {
+      "code": "AL",
+      "name": "Alagoas",
+      "country": "BR"
+    },
+    {
+      "code": "AP",
+      "name": "Amapá",
+      "country": "BR"
+    },
+    {
+      "code": "AM",
+      "name": "Amazonas",
+      "country": "BR"
+    },
+    {
+      "code": "BA",
+      "name": "Bahia",
+      "country": "BR"
+    },
+    {
+      "code": "CE",
+      "name": "Ceará",
+      "country": "BR"
+    },
+    {
+      "code": "DF",
+      "name": "Distrito Federal",
+      "country": "BR"
+    },
+    {
+      "code": "ES",
+      "name": "Espírito Santo",
+      "country": "BR"
+    },
+    {
+      "code": "GO",
+      "name": "Goiás",
+      "country": "BR"
+    },
+    {
+      "code": "MA",
+      "name": "Maranhão",
+      "country": "BR"
+    },
+    {
+      "code": "MT",
+      "name": "Mato Grosso",
+      "country": "BR"
+    },
+    {
+      "code": "MS",
+      "name": "Mato Grosso do Sul",
+      "country": "BR"
+    },
+    {
+      "code": "MG",
+      "name": "Minas Gerais",
+      "country": "BR"
+    },
+    {
+      "code": "PA",
+      "name": "Pará",
+      "country": "BR"
+    },
+    {
+      "code": "PB",
+      "name": "Paraíba",
+      "country": "BR"
+    },
+    {
+      "code": "PR",
+      "name": "Paraná",
+      "country": "BR"
+    },
+    {
+      "code": "PE",
+      "name": "Pernambuco",
+      "country": "BR"
+    },
+    {
+      "code": "PI",
+      "name": "Piauí",
+      "country": "BR"
+    },
+    {
+      "code": "RJ",
+      "name": "Rio de Janeiro",
+      "country": "BR"
+    },
+    {
+      "code": "RN",
+      "name": "Rio Grande do Norte",
+      "country": "BR"
+    },
+    {
+      "code": "RS",
+      "name": "Rio Grande do Sul",
+      "country": "BR"
+    },
+    {
+      "code": "RO",
+      "name": "Rondônia",
+      "country": "BR"
+    },
+    {
+      "code": "RR",
+      "name": "Roraima",
+      "country": "BR"
+    },
+    {
+      "code": "SC",
+      "name": "Santa Catarina",
+      "country": "BR"
+    },
+    {
+      "code": "SP",
+      "name": "São Paulo",
+      "country": "BR"
+    },
+    {
+      "code": "SE",
+      "name": "Sergipe",
+      "country": "BR"
+    },
+    {
+      "code": "TO",
+      "name": "Tocantins",
+      "country": "BR"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Belgium",
+  "altSpellings": [
+    "BE",
+    "België",
+    "Belgie",
+    "Belgien",
+    "Belgique",
+    "Kingdom of Belgium",
+    "Koninkrijk België",
+    "Royaume de Belgique",
+    "Königreich Belgien"
+  ],
+  "ISO": {
+    "alpha2": "BE",
+    "alpha3": "BEL"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "ANT",
+      "name": "Antwerpen",
+      "country": "BE"
+    },
+    {
+      "code": "HAI",
+      "name": "Henegouwen",
+      "country": "BE",
+      "alt": [
+        "Hainaut"
+      ]
+    },
+    {
+      "code": "LIE",
+      "name": "Luik",
+      "country": "BE",
+      "alt": [
+        "Liège"
+      ]
+    },
+    {
+      "code": "LIM",
+      "name": "Limburg",
+      "country": "BE"
+    },
+    {
+      "code": "LUX",
+      "name": "Luxemburg",
+      "country": "BE"
+    },
+    {
+      "code": "NAM",
+      "name": "Namen",
+      "country": "BE"
+    },
+    {
+      "code": "OVL",
+      "name": "Oost-Vlaanderen",
+      "country": "BE"
+    },
+    {
+      "code": "VBR",
+      "name": "Vlaams-Brabant",
+      "country": "BE"
+    },
+    {
+      "code": "WBR",
+      "name": "Waals-Brabant",
+      "country": "BE"
+    },
+    {
+      "code": "WVL",
+      "name": "West-Vlaanderen",
+      "country": "BE"
+    }
+  ]
+}

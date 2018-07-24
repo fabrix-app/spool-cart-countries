@@ -1,0 +1,185 @@
+{
+  "name": "Indonesia",
+  "altSpellings": [
+    "ID",
+    "Republic of Indonesia",
+    "Republik Indonesia"
+  ],
+  "ISO": {
+    "alpha2": "ID",
+    "alpha3": "IDN"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "ID-AC",
+      "name": "Special Region of Aceh",
+      "country": "ID"
+    },
+    {
+      "code": "ID-BA",
+      "name": "Bali",
+      "country": "ID"
+    },
+    {
+      "code": "ID-BB",
+      "name": "Bangka–Belitung Islands",
+      "country": "ID"
+    },
+    {
+      "code": "ID-BT",
+      "name": "Banten",
+      "country": "ID"
+    },
+    {
+      "code": "ID-BE",
+      "name": "Bengkulu",
+      "country": "ID"
+    },
+    {
+      "code": "ID-JT",
+      "name": "Central Java",
+      "country": "ID"
+    },
+    {
+      "code": "ID-KT",
+      "name": "Central Kalimantan",
+      "country": "ID"
+    },
+    {
+      "code": "ID-ST",
+      "name": "Central Sulawesi",
+      "country": "ID"
+    },
+    {
+      "code": "ID-JI",
+      "name": "East Java",
+      "country": "ID"
+    },
+    {
+      "code": "ID-KI",
+      "name": "East Kalimantan",
+      "country": "ID"
+    },
+    {
+      "code": "ID-NT",
+      "name": "East Nusa Tenggara",
+      "country": "ID"
+    },
+    {
+      "code": "ID-GO",
+      "name": "Gorontalo",
+      "country": "ID"
+    },
+    {
+      "code": "ID-JK",
+      "name": "Jakarta Special Capital Region",
+      "country": "ID"
+    },
+    {
+      "code": "ID-JA",
+      "name": "Jambi",
+      "country": "ID"
+    },
+    {
+      "code": "ID-LA",
+      "name": "Lampung",
+      "country": "ID"
+    },
+    {
+      "code": "ID-MA",
+      "name": "Maluku",
+      "country": "ID"
+    },
+    {
+      "code": "ID-KU",
+      "name": "North Kalimantan",
+      "country": "ID"
+    },
+    {
+      "code": "ID-MU",
+      "name": "North Maluku",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SA",
+      "name": "North Sulawesi",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SU",
+      "name": "North Sumatra",
+      "country": "ID"
+    },
+    {
+      "code": "ID-PA",
+      "name": "Special Region of Papua",
+      "country": "ID"
+    },
+    {
+      "code": "ID-RI",
+      "name": "Riau",
+      "country": "ID"
+    },
+    {
+      "code": "ID-KR",
+      "name": "Riau Islands",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SG",
+      "name": "Southeast Sulawesi",
+      "country": "ID"
+    },
+    {
+      "code": "ID-KS",
+      "name": "South Kalimantan",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SN",
+      "name": "South Sulawesi",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SS",
+      "name": "South Sumatra",
+      "country": "ID"
+    },
+    {
+      "code": "ID-JB",
+      "name": "West Java",
+      "country": "ID"
+    },
+    {
+      "code": "ID-KB",
+      "name": "West Kalimantan",
+      "country": "ID"
+    },
+    {
+      "code": "ID-NB",
+      "name": "West Nusa Tenggara",
+      "country": "ID"
+    },
+    {
+      "code": "ID-PB",
+      "name": "Special Region of West Papua",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SR",
+      "name": "West Sulawesi",
+      "country": "ID"
+    },
+    {
+      "code": "ID-SB",
+      "name": "West Sumatra",
+      "country": "ID"
+    },
+    {
+      "code": "ID-YO",
+      "name": "Special Region of Yogyakarta",
+      "country": "ID"
+    }
+  ]
+}

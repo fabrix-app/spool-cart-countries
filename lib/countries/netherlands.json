@@ -1,0 +1,105 @@
+{
+  "name": "Netherlands",
+  "altSpellings": [
+    "NL",
+    "Holland",
+    "Nederland"
+  ],
+  "ISO": {
+    "alpha2": "NL",
+    "alpha3": "NLD"
+  },
+  "tax": 0.00,
+  "states": [
+    {
+      "code": "DR",
+      "name": "Drenthe",
+      "country": "NL"
+    },
+    {
+      "code": "FL",
+      "name": "Flevoland",
+      "country": "NL"
+    },
+    {
+      "code": "FR",
+      "name": "Friesland",
+      "country": "NL"
+    },
+    {
+      "code": "GD",
+      "name": "Gelderland",
+      "country": "NL"
+    },
+    {
+      "code": "GR",
+      "name": "Groningen",
+      "country": "NL"
+    },
+    {
+      "code": "LB",
+      "name": "Limburg",
+      "country": "NL"
+    },
+    {
+      "code": "NB",
+      "name": "Noord-Brabant",
+      "country": "NL"
+    },
+    {
+      "code": "NH",
+      "name": "Noord-Holland",
+      "country": "NL"
+    },
+    {
+      "code": "OV",
+      "name": "Overijssel",
+      "country": "NL"
+    },
+    {
+      "code": "UT",
+      "name": "Utrecht",
+      "country": "NL"
+    },
+    {
+      "code": "ZH",
+      "name": "Zuid-Holland",
+      "country": "NL"
+    },
+    {
+      "code": "ZL",
+      "name": "Zeeland",
+      "country": "NL"
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "country": "NL"
+    },
+    {
+      "code": "BQ",
+      "name": "Bonaire",
+      "country": "NL"
+    },
+    {
+      "code": "BQ2",
+      "name": "Saba",
+      "country": "NL"
+    },
+    {
+      "code": "BQ3",
+      "name": "Sint Eustatius",
+      "country": "NL"
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao",
+      "country": "NL"
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten",
+      "country": "NL"
+    }
+  ]
+}
