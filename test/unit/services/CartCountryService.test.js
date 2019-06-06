@@ -16,7 +16,8 @@ describe('CountryService', () => {
     const searches = {
       'CA': 'Canada',
       'U.S.A.': 'United States',
-      'THE GREAT BRITAIN': 'United Kingdom'
+      'THE GREAT BRITAIN': 'United Kingdom',
+      'FR': 'France'
     }
     Object.keys(searches).forEach(function (search) {
       const tester = CountryService.name(search)
@@ -31,7 +32,8 @@ describe('CountryService', () => {
     const searches = {
       'CA': 'Canada',
       'U.S.A.': 'United States',
-      'THE GREAT BRITAIN': 'United Kingdom'
+      'THE GREAT BRITAIN': 'United Kingdom',
+      'FR': 'France'
     }
     Object.keys(searches).forEach(function (search) {
       const tester = CountryService.info(searches[search])
@@ -46,7 +48,8 @@ describe('CountryService', () => {
     const searches = {
       'CA': 'Canada',
       'US': 'United States',
-      'GB': 'United Kingdom'
+      'GB': 'United Kingdom',
+      'FR': 'France'
     }
     Object.keys(searches).forEach(function (search) {
       const tester = CountryService.name(search, 'IS02')

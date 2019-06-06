@@ -13,571 +13,685 @@
   "states": [
     {
       "name": "Avon",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Bedfordshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Berkshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Borders",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Bristol",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Buckinghamshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Cambridgeshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Channel Islands",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Cheshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Cleveland",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Cornwall",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Cumbria",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Derbyshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Devon",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Dorset",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Durham",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "East Riding of Yorkshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "East Sussex",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Essex",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Gloucestershire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Greater Manchester",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Hampshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Herefordshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Hertfordshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Humberside",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Isle of Man",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Isle of Wight",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Isles of Scilly",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Kent",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Lancashire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Leicestershire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Lincolnshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "London",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Merseyside",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Middlesex",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Norfolk",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "North Yorkshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Northamptonshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Northumberland",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Nottinghamshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Oxfordshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Rutland",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Shropshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Somerset",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "South Yorkshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Staffordshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Suffolk",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Surrey",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Tyne and Wear",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Warwickshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "West Midlands",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "West Sussex",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "West Yorkshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Wiltshire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Worcestershire",
+      "code": "",
       "country": "GB",
       "region": "England"
     },
     {
       "name": "Antrim",
+      "code": "",
       "country": "GB",
       "region": "Northern Ireland"
     },
     {
       "name": "Down",
+      "code": "",
       "country": "GB",
       "region": "Northern Ireland"
     },
     {
       "name": "Fermanagh",
+      "code": "",
       "country": "GB",
       "region": "Northern Ireland"
     },
     {
       "name": "Londonderry",
+      "code": "",
       "country": "GB",
       "region": "Northern Ireland"
     },
     {
       "name": "Tyrone",
+      "code": "",
       "country": "GB",
       "region": "Northern Ireland"
     },
     {
       "name": "Aberdeen City",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Aberdeenshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Angus",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Argyll and Bute",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Armagh",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Carmarthenshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Clackmannan",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Dumfries and Galloway",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "East Ayrshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "East Dunbartonshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "East Lothian",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "East Renfrewshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Edinburgh City",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Falkirk",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Fife",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Glasgow",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Highland",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Inverclyde",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Midlothian",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Moray",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "North Ayrshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "North Lanarkshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Orkney",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Perthshire and Kinross",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Renfrewshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Roxburghshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Shetland",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "South Ayrshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "South Lanarkshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Stirling",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "West Dunbartonshire",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "West Lothian",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Western Isles",
+      "code": "",
       "country": "GB",
       "region": "Scotland"
     },
     {
       "name": "Blaenau Gwent",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Bridgend",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Caerphilly",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Cardiff",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Ceredigion",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Conwy",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Denbighshire",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Flintshire",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Gwynedd",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Isle of Anglesey",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Merthyr Tydfil",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Monmouthshire",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Neath Port Talbot",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Newport",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Pembrokeshire",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Powys",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Rhondda Cynon Taff",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Swansea",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "The Vale of Glamorgan",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Torfaen",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     },
     {
       "name": "Wrexham",
+      "code": "",
       "country": "GB",
       "region": "Wales"
     }

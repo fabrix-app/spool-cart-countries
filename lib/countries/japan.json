@@ -13,238 +13,239 @@
   "states": [
     {
       "name": "愛知県",
-      "english": "Aichi",
+      "name_english": "Aichi",
+      "code": "",
       "country": "JP"
     },
     {
       "name": "秋田県",
-      "english": "Akita",
-      "country": "JP"
+      "name_english": "Akita",
+      "code": "", "country": "JP"
     },
     {
       "name": "青森県",
-      "english": "Aomori",
-      "country": "JP"
+      "name_english": "Aomori",
+      "code": "", "country": "JP"
     },
     {
       "name": "千葉県",
-      "english": "Chiba",
-      "country": "JP"
+      "name_english": "Chiba",
+      "code": "", "country": "JP"
     },
     {
       "name": "愛媛県",
-      "english": "Ehime",
-      "country": "JP"
+      "name_english": "Ehime",
+      "code": "", "country": "JP"
     },
     {
       "name": "福井県",
-      "english": "Fukui",
-      "country": "JP"
+      "name_english": "Fukui",
+      "code": "", "country": "JP"
     },
     {
       "name": "福岡県",
-      "english": "Fukuoka",
-      "country": "JP"
+      "name_english": "Fukuoka",
+      "code": "", "country": "JP"
     },
     {
       "name": "福島県",
-      "english": "Fukushima",
-      "country": "JP"
+      "name_english": "Fukushima",
+      "code": "", "country": "JP"
     },
     {
       "name": "岐阜県",
-      "english": "Gifu",
-      "country": "JP"
+      "name_english": "Gifu",
+      "code": "", "country": "JP"
     },
     {
       "name": "群馬県",
-      "english": "Gunma",
-      "country": "JP"
+      "name_english": "Gunma",
+      "code": "", "country": "JP"
     },
     {
       "name": "広島県",
-      "english": "Hiroshima",
-      "country": "JP"
+      "name_english": "Hiroshima",
+      "code": "", "country": "JP"
     },
     {
       "name": "北海道",
-      "english": "Hokkaidō",
-      "country": "JP"
+      "name_english": "Hokkaidō",
+      "code": "", "country": "JP"
     },
     {
       "name": "兵庫県",
-      "english": "Hyōgo",
-      "country": "JP"
+      "name_english": "Hyōgo",
+      "code": "", "country": "JP"
     },
     {
       "name": "茨城県",
-      "english": "Ibaraki",
-      "country": "JP"
+      "name_english": "Ibaraki",
+      "code": "", "country": "JP"
     },
     {
       "name": "石川県",
-      "english": "Ishikawa",
-      "country": "JP"
+      "name_english": "Ishikawa",
+      "code": "", "country": "JP"
     },
     {
       "name": "岩手県",
-      "english": "Iwate",
-      "country": "JP"
+      "name_english": "Iwate",
+      "code": "", "country": "JP"
     },
     {
       "name": "香川県",
-      "english": "Kagawa",
-      "country": "JP"
+      "name_english": "Kagawa",
+      "code": "", "country": "JP"
     },
     {
       "name": "鹿児島県",
-      "english": "Kagoshima",
-      "country": "JP"
+      "name_english": "Kagoshima",
+      "code": "", "country": "JP"
     },
     {
       "name": "神奈川県",
-      "english": "Kanagawa",
-      "country": "JP"
+      "name_english": "Kanagawa",
+      "code": "", "country": "JP"
     },
     {
       "name": "高知県",
-      "english": "Kōchi",
-      "country": "JP"
+      "name_english": "Kōchi",
+      "code": "", "country": "JP"
     },
     {
       "name": "熊本県",
-      "english": "Kumamoto",
-      "country": "JP"
+      "name_english": "Kumamoto",
+      "code": "", "country": "JP"
     },
     {
       "name": "京都府",
-      "english": "Kyōto",
-      "country": "JP"
+      "name_english": "Kyōto",
+      "code": "", "country": "JP"
     },
     {
       "name": "三重県",
-      "english": "Mie",
-      "country": "JP"
+      "name_english": "Mie",
+      "code": "", "country": "JP"
     },
     {
       "name": "宮城県",
-      "english": "Miyagi",
-      "country": "JP"
+      "name_english": "Miyagi",
+      "code": "", "country": "JP"
     },
     {
       "name": "宮崎県",
-      "english": "Miyazaki",
-      "country": "JP"
+      "name_english": "Miyazaki",
+      "code": "", "country": "JP"
     },
     {
       "name": "長野県",
-      "english": "Nagano",
-      "country": "JP"
+      "name_english": "Nagano",
+      "code": "", "country": "JP"
     },
     {
       "name": "長崎県",
-      "english": "Nagasaki",
-      "country": "JP"
+      "name_english": "Nagasaki",
+      "code": "", "country": "JP"
     },
     {
       "name": "奈良県",
-      "english": "Nara",
-      "country": "JP"
+      "name_english": "Nara",
+      "code": "", "country": "JP"
     },
     {
       "name": "新潟県",
-      "english": "Niigata",
-      "country": "JP"
+      "name_english": "Niigata",
+      "code": "", "country": "JP"
     },
     {
       "name": "大分県",
-      "english": "Ōita",
-      "country": "JP"
+      "name_english": "Ōita",
+      "code": "", "country": "JP"
     },
     {
       "name": "岡山県",
-      "english": "Okayama",
-      "country": "JP"
+      "name_english": "Okayama",
+      "code": "", "country": "JP"
     },
     {
       "name": "沖縄県",
-      "english": "Okinawa",
-      "country": "JP"
+      "name_english": "Okinawa",
+      "code": "", "country": "JP"
     },
     {
       "name": "大阪府",
-      "english": "Ōsaka",
-      "country": "JP"
+      "name_english": "Ōsaka",
+      "code": "", "country": "JP"
     },
     {
       "name": "佐賀県",
-      "english": "Saga",
-      "country": "JP"
+      "name_english": "Saga",
+      "code": "", "country": "JP"
     },
     {
       "name": "埼玉県",
-      "english": "Saitama",
-      "country": "JP"
+      "name_english": "Saitama",
+      "code": "", "country": "JP"
     },
     {
       "name": "滋賀県",
-      "english": "Shiga",
-      "country": "JP"
+      "name_english": "Shiga",
+      "code": "", "country": "JP"
     },
     {
       "name": "島根県",
-      "english": "Shimane",
-      "country": "JP"
+      "name_english": "Shimane",
+      "code": "", "country": "JP"
     },
     {
       "name": "静岡県",
-      "english": "Shizuoka",
-      "country": "JP"
+      "name_english": "Shizuoka",
+      "code": "", "country": "JP"
     },
     {
       "name": "栃木県",
-      "english": "Tochigi",
-      "country": "JP"
+      "name_english": "Tochigi",
+      "code": "", "country": "JP"
     },
     {
       "name": "徳島県",
-      "english": "Tokushima",
-      "country": "JP"
+      "name_english": "Tokushima",
+      "code": "", "country": "JP"
     },
     {
       "name": "東京都",
-      "english": "Tōkyō",
-      "country": "JP"
+      "name_english": "Tōkyō",
+      "code": "", "country": "JP"
     },
     {
       "name": "鳥取県",
-      "english": "Tottori",
-      "country": "JP"
+      "name_english": "Tottori",
+      "code": "", "country": "JP"
     },
     {
       "name": "富山県",
-      "english": "Toyama",
-      "country": "JP"
+      "name_english": "Toyama",
+      "code": "", "country": "JP"
     },
     {
       "name": "和歌山県",
-      "english": "Wakayama",
-      "country": "JP"
+      "name_english": "Wakayama",
+      "code": "", "country": "JP"
     },
     {
       "name": "山形県",
-      "english": "Yamagata",
-      "country": "JP"
+      "name_english": "Yamagata",
+      "code": "", "country": "JP"
     },
     {
       "name": "山口県",
-      "english": "Yamaguchi",
-      "country": "JP"
+      "name_english": "Yamaguchi",
+      "code": "", "country": "JP"
     },
     {
       "name": "山梨県",
-      "english": "Yamanashi",
-      "country": "JP"
+      "name_english": "Yamanashi",
+      "code": "", "country": "JP"
     }
   ]
 }

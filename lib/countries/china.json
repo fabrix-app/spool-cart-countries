@@ -17,172 +17,240 @@
   "states": [
     {
       "name": "重庆",
+      "name_english": "",
       "code": "渝",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "黑龙江",
+      "name_english": "",
       "code": "黑",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "吉林",
+      "name_english": "",
       "code": "吉",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "海南",
+      "name_english": "",
       "code": "琼",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "北京",
+      "name_english": "",
       "code": "京",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "辽宁",
+      "name_english": "",
       "code": "辽",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "内蒙古",
+      "name_english": "",
       "code": "蒙",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "西藏",
+      "name_english": "",
       "code": "藏",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "青海",
+      "name_english": "",
       "code": "青",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "宁夏",
+      "name_english": "",
       "code": "宁",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "新疆",
+      "name_english": "",
       "code": "新",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "甘肃",
+      "name_english": "",
       "code": "甘",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "河北",
+      "name_english": "",
       "code": "冀",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "河南",
+      "name_english": "",
       "code": "豫",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "湖北",
+      "name_english": "",
       "code": "鄂",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "湖南",
+      "name_english": "",
       "code": "湘",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "山东",
+      "name_english": "",
       "code": "鲁",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "江苏",
+      "name_english": "",
       "code": "苏",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "安徽",
+      "name_english": "",
       "code": "皖",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "山西",
+      "name_english": "",
       "code": "晋",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "陕西",
+      "name_english": "",
       "code": "陕",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "四川",
+      "name_english": "",
       "code": "川",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "云南",
+      "name_english": "",
       "code": "滇",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "贵州",
+      "name_english": "",
       "code": "黔",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "浙江",
+      "name_english": "",
       "code": "浙",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "福建",
+      "name_english": "",
       "code": "闽",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "广西",
+      "name_english": "",
       "code": "桂",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "上海",
+      "name_english": "",
       "code": "沪",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "天津",
+      "name_english": "",
       "code": "津",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "香港",
+      "name_english": "",
       "code": "港",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "澳门",
+      "name_english": "",
       "code": "澳",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "台湾",
+      "name_english": "",
       "code": "台",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "江西",
+      "name_english": "",
       "code": "赣",
+      "code_english": "",
       "country": "CN"
     },
     {
       "name": "广东",
+      "name_english": "",
       "code": "粤",
+      "code_english": "",
       "country": "CN"
     }
   ]
